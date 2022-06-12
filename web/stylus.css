@@ -1,0 +1,16 @@
+body
+{
+    font-family: Arial;
+}
+
+th
+{
+    background:black;
+    color:white;
+}
+ td {
+   background: darkgray;
+   text-align: left;
+   
+ }
+
